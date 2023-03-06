@@ -35,7 +35,7 @@ $(function() {
      
      var oldDeg = $hat.data('rotate') ? $hat.data('rotate') : 0;
      
-     var deg = Math.floor(Math.random() * 360) + 1080 + oldDeg;
+     var deg = Math.floor(Math.random() * 360) + 3240 +1080+ oldDeg;
      
      $hat.data('rotate', deg);
      $hat.css('transform', `rotate(${deg}deg)`);
