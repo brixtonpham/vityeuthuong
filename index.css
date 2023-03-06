@@ -52,8 +52,8 @@ span::before {
 
 /*CSS FOR WHEEL GAME*/
 .m-game {
-    width: 60vh;
-    height: 60vh;
+    width: 40vh;
+    height: 40vh;
     margin: 5vh auto;
     position: relative;
   }
